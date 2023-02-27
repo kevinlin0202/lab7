@@ -48,5 +48,3 @@ class ListExamples {
 
 }
 
-
-wasssssup
